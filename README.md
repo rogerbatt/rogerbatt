@@ -6,13 +6,14 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Roger-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
   <img align="center" alt="Roger-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Roger-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Roger-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Roger-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Roger-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Roger-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Roger-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Roger-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Roger-pic" height="150" style="border-radius:50px;" src="https://instagram.fssz4-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/260458257_748693932744548_2467750968800759385_n.jpg?_nc_ht=instagram.fssz4-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=KDSdPI-UJ9MAX-w_mTH&edm=AABBvjUBAAAA&ccb=7-4&oh=d5e928d80ac3affe36e16c15873b7ecb&oe=61A5E903&_nc_sid=83d603">
 </div>
   
   ##
