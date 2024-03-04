@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/rogerbatt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerbatt&bg_color=30,E3FDF5,FFE6FA&title_color=000&text_color=000&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerbatt&show_icons=true&theme=dracula)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbatt&layout=compact&langs_count=7&bg_color=360,FFE6FA,E3FDF5&title_color=000&text_color=000"/>
 </div>
 
