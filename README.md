@@ -1,8 +1,8 @@
 
 <div align="center">
   <a href="https://github.com/rogerbatt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerbatt&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbatt&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerbatt&show_icons=true&theme=ocean_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbatt&layout=compact&theme=ocean_dark"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
