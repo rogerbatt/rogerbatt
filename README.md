@@ -31,4 +31,3 @@
     ![Snake animation](https://github.com/rogerbatt/rogerbatt/blob/output/github-contribution-grid-snake-dark.svg)
    
   </div>
-</div>
